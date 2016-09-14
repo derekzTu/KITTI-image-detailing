@@ -1,0 +1,4 @@
+Minimum X is: 587.0
+Minimum Y is: 1583.0
+Maximum X is: 1056.0
+Maximum Y is: 745.0
