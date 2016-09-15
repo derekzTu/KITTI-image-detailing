@@ -1,5 +1,3 @@
-//C:\Users\Derek\Pictures\anime\5cms.jpg
-
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.EventQueue;
@@ -33,7 +31,6 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextField;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
-
 
 
 public class borderDraw extends JPanel {
